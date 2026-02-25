@@ -44,6 +44,8 @@ If the application/game you are targeting is **32-bit (x86)**, the default 64-bi
 
 ---
 
+This code is actually very sloppy, a rough draft, and depends on a much older version of Magpie. It works for now, but I intend to look into improving this project at another time. Use at your own risk. I offer no support for this project in the mean time
+
 ## Known Issues & Bugs
 
 *   **Toggle Issue:** After activating the upscale with the hotkey, pressing the hotkey again **does not** revert the window to original size. Unsure why this occurs.
